@@ -1,0 +1,5 @@
+CONNECTOR: Therefore
+ACTOR: I/me
+DESCRIPTION: rika
+TENSE: IS
+
